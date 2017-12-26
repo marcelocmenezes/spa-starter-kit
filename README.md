@@ -1,8 +1,8 @@
-# Codecast's Single Page Application Starter Kit
+# Codecast's Single Page Application Starter Kit - Only Client
 
 [![Build Status](https://travis-ci.org/codecasts/spa-starter-kit.svg?branch=develop)](https://travis-ci.org/codecasts/spa-starter-kit)
 
-![Cover](http://vedovelli.com.br/spas.png)
+
 
 > A **highly opinionated** Single Page Application starter kit built on top of Vue.js and Laravel.
 
